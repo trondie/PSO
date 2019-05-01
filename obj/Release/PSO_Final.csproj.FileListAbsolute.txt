@@ -1,4 +1,0 @@
-C:\Users\trond\Documents\Visual Studio 2012\Projects\SPO_Final\SPO\bin\Release\PSO_Final.exe.config
-C:\Users\trond\Documents\Visual Studio 2012\Projects\SPO_Final\SPO\obj\Release\PSO_Final.Form2.resources
-C:\Users\trond\Documents\Visual Studio 2012\Projects\SPO_Final\SPO\obj\Release\PSO_Final.Properties.Resources.resources
-C:\Users\trond\Documents\Visual Studio 2012\Projects\SPO_Final\SPO\obj\Release\PSO_Final.csproj.GenerateResource.Cache
